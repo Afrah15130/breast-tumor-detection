@@ -103,10 +103,6 @@ Run the Streamlit interface
 
 streamlit run app.py
 
-Open in browser
-
-http://localhost:8501
-
 Upload a thermogram image to detect tumors.
 
 Model Architecture
@@ -155,10 +151,6 @@ Improve tumor segmentation accuracy
 Use larger thermography datasets
 Add Grad-CAM explainability
 Deploy the model using Docker or cloud platforms
-
-Author
-
-Babu
 
 Project: Breast Tumor Detection using Hybrid CNN-GNN
 
